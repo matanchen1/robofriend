@@ -12,7 +12,7 @@ let adir = {
     id: 15,
     name: "Adir Tuval",
     username: "Adirt",
-    email: "Adir T@rosamond.me",
+    email: "Adir T@theLoser.me",
     address: {
         street: "Ellsworth Summit",
         suite: "Suite 729",
